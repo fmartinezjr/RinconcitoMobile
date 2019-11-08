@@ -11,7 +11,7 @@ const listaDeElotes = [
   },
   {
     name: 'Elote Chorrado',
-    price: '$8.99',
+    price: '$8.98',
     icon_url: require('../img/ListItem/Elote_Chorreado_300x250.png'),
     image_url: require('../img/MenuItemPage/Elote_Chorreado_1280x800.png'),
     subtitle: 'Elote Chorrado',
